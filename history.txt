@@ -1,0 +1,72 @@
+    1  pwd
+    2  ls
+    3  touch demo.txt
+    4  ls
+    5  mkdir GIST
+    6  LS
+    7  cd GIST
+    8  ls
+    9  pwd
+   10  cd...
+   11  cd..
+   12  cd ..
+   13  pwd
+   14  cd e:
+   15  pwd
+   16  cd c:
+   17  cd Users/dell/Desktop/Bhavya-172u1a04b3
+   18  pwd
+   19  echo "Hello"
+   20  echo "1..100"
+   21  echo {1..100}
+   22  touch file{1..100}.txt
+   23  touch python{20..50}.PY
+   24  touch clanguage{50..70}.cpp
+   25  ls
+   26  rmdir GIST
+   27  ls
+   28  rm demo.txt
+   29  ls
+   30  rm file{1..10}.txt
+   31  ls
+   32  rm fie{50..100}.txt
+   33  rm file{50..100}.txt
+   34  ls
+   35  rm *.txt
+   36  ls
+   37  rm *.py
+   38  rm *.py
+   39  rm *.cpp
+   40  ls
+   41  rm *.py
+   42  ls
+   43  rm *.py
+   44  rm *.pY
+   45  rm *.PY
+   46  ls
+   47  nano myfile.txt
+   48  cat myfile.txt
+   49  nano myfile.txt
+   50  cat myfile.txt
+   51  echo "Hello">>myflie2.txt
+   52  cat myfile2.txt
+   53  echo "Hell
+   54  cat myfile2.txt
+   55  echo {1..1000} >> myflie3.txt
+   56  cat myfile3.txt
+   57  cat myfile3.txt
+   58  ls
+   59  cat my
+   60  cat myfile3.txt
+   61  cat myflie3.txt
+   62  mv myflie3.txt myflie2.txt
+   63  cat myflie2.txt
+   64  ls
+   65  mv myflie2.txt myfile2.txt
+   66  cp myfile2.txt myfile.txt
+   67  ls
+   68  cat myflie.txt
+   69  cat myfile.txt
+   70  ls
+   71  history
+   72  history >> history.txt
